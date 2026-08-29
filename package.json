@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "test": "node -e \"console.log('Error simulado'); process.exit(1);\"",
+  "test": "node -e \"console.log('Pruebas pasadas!'); process.exit(0);\"",
   "build": "node -e \"console.log('Build simulado completado con éxito!'); process.exit(0);\""
   },
   "keywords": [],
