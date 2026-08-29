@@ -1,0 +1,14 @@
+{
+  "name": "laboratorio-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "test": "node -e \"console.log('Pruebas unitarias pasaron!'); process.exit(0);\"",
+  "build": "node -e \"console.log('Build simulado completado con éxito!'); process.exit(0);\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
